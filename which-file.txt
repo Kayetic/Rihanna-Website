@@ -1,0 +1,9 @@
+Home page = index.html
+Tours page = tours.html
+Shop page = shop.html
+News page = news.html
+Albums page = albums.html
+Tracks/Music page = tracks-copy.html
+Gallery page = gallery-card.html
+
+[All mobile pages will have '-mobile' in the file name]
