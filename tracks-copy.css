@@ -8,6 +8,7 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  /* outline: red dashed 1px; */
 }
 
 body {
@@ -130,7 +131,7 @@ a {
 
 .main-container {
   display: grid;
-  grid-template-columns: 1fr 72%;
+  grid-template-columns: 1fr 65%;
   margin: 0 4rem;
 }
 
@@ -148,8 +149,13 @@ a {
   justify-content: space-around;
 }
 
-.large {
+.large-embeds-container * {
   justify-self: center;
+  padding: 0 20px;
+}
+
+.remove-left-padding {
+  padding-left: 0;
 }
 
 .small {
