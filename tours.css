@@ -250,3 +250,11 @@ a {
     border-top: #584e4a 2px solid;
   }
 }
+
+.table-container p a {
+  text-decoration: underline;
+}
+
+.table-container p a:visited {
+  color: blue;
+}

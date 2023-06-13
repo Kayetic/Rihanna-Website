@@ -83,3 +83,11 @@ a:visited {
   padding-top: 10px;
   border-top: #584e4a 2px solid;
 }
+
+.mobile-table-container p a {
+  text-decoration: underline;
+}
+
+.mobile-table-container p a:visited {
+  color: blue;
+}
