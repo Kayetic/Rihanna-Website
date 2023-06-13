@@ -90,3 +90,7 @@ a:visited {
 .news-item * {
   margin-bottom: 1rem;
 }
+
+.news-item:last-child {
+  border-bottom: none;
+}
